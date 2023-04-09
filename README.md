@@ -1,6 +1,6 @@
-## Hi there, I'm Yogi Pamungkas aka yogistrash!
+## Hi there, I'm Yogi Pamungkas!
 
-### I'am a student from Cuy University
+### Part of Cuy Universe
 
 I don't know what to type here, so
 <br/>
