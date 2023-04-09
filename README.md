@@ -1,5 +1,7 @@
 ## Hi there, I'm Yogi Pamungkas aka yogistrash!
 
+### I'am a student from Cuy University
+
 I don't know what to type here, so
 <br/>
 Connect with me:
