@@ -1,6 +1,8 @@
 # Hi there, I'm Yogi Pamungkas
 
-## I don't know what to type here, so
+## I'm here just for fun
+
+I don't know what to type here, so
 
 ### Connect with me:
 
