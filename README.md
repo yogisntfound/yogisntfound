@@ -10,4 +10,4 @@ I don't know what to type here, so
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="max-width: 100%;"></a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/yogistrash#gh-dark-mode-only" rel="nofollow">
-  <img src="/yogistrash/yogistrash/raw/master/img/instagram-dark.svg" alt="website" style="max-width: 100%;"></a>
+  <img src="./img/instagram-dark.svg" alt="website" style="max-width: 100%;"></a>
