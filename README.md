@@ -4,7 +4,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-icons@v3/icons/instagram.svg >>] [ Instagram]
-[<img align="left" alt="codeSTACKr❘ YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-icons@v3/icons/youtube.svg">][youtube]
+<a href="https://youtube.com/codestackr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg" alt="website" style="max-width: 100%;"></a>
