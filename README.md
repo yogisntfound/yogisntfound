@@ -15,6 +15,6 @@ Connect with me:
   <img src="./img/instagram-light.svg" alt="website" style="max-width: 100%;"></a>
 &nbsp;&nbsp;
 <a href="https://discord.com/channels/@me/1084193741746749633#gh-dark-mode-only" rel="nofollow">
-  <img src="simple-icons/simple-icons/develop/icons/discord.svg" alt="website" style="max-width: 100%;"></a>
+  <img src="./img/discord-dark.svg" alt="website" style="max-width: 100%;"></a>
 <a href="https://discord.com/channels/@me/1084193741746749633#gh-light-mode-only" rel="nofollow">
-  <img src="simple-icons/simple-icons/develop/icons/discord-light.svg" alt="website" style="max-width: 100%;"></a>
+  <img src="./img/discord-light.svg" alt="website" style="max-width: 100%;"></a>
