@@ -23,5 +23,4 @@ Connect with me:
   <img src="./img/spotify-dark.svg" alt="website" style="width: 23px;"height: 23px;"></a>
 <a href="https://open.spotify.com/user/ol0hjvrny89ab9kd9imkqfdt0#gh-light-mode-only" rel="nofollow">
   <img src="./img/spotify-light.svg" alt="website" style="width: 23px;"height: 23px;"></a>
-<img src="https://discord.c99.nl/widget/theme-1/546349812316897303.png#gh-dark-mode-only" rel="nofollow">
-<img src="https://discord.c99.nl/widget/theme-5/546349812316897303.png#gh-light-mode-only" rel="nofollow">
+<img src="https://discord.c99.nl/widget/theme-1/546349812316897303.png#gh-dark-mode-only"\>
