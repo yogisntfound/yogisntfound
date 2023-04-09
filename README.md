@@ -1,6 +1,4 @@
-# Hi there, I'm Yogi Pamungkas
-## I'm here just for fun
-
+## Hi there, I'm Yogi Pamungkas
 
 I don't know what to type here, so
 
