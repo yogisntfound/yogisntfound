@@ -13,3 +13,8 @@ Connect with me:
   <img src="./img/instagram-dark.svg" alt="website" style="max-width: 100%;"></a>
 <a href="https://instagram.com/yogistrash#gh-light-mode-only" rel="nofollow">
   <img src="./img/instagram-light.svg" alt="website" style="max-width: 100%;"></a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/yog1strash#gh-dark-mode-only" rel="nofollow">
+  <img src="./img/twitter-dark.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://twitter.com/yog1strash#gh-light-mode-only" rel="nofollow">
+  <img src="./img/twitter-light.svg" alt="website" style="max-width: 100%;"></a>
