@@ -18,3 +18,6 @@ Connect with me:
   <img src="./img/twitter-dark.svg" alt="website" style="max-width: 100%;"></a>
 <a href="https://twitter.com/yog1strash#gh-light-mode-only" rel="nofollow">
   <img src="./img/twitter-light.svg" alt="website" style="max-width: 100%;"></a>
+&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/ol0hjvrny89ab9kd9imkqfdt0#gh-dark-mode-only" rel="nofollow">
+  <img src="./img/spotify.svg" alt="website" style="width: 24px;"height: 24px;"></a>
