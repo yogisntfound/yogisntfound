@@ -21,5 +21,5 @@ Connect with me:
 &nbsp;&nbsp;
 <a href="https://open.spotify.com/user/ol0hjvrny89ab9kd9imkqfdt0#gh-dark-mode-only" rel="nofollow">
   <img src="./img/spotify-dark.svg" alt="website" style="width: 23px;"height: 23px;"></a>
-<a href="https://open.spotify.com/user/ol0hjvrny89ab9kd9imkqfdt0#ghlight-mode-only" rel="nofollow">
+<a href="https://open.spotify.com/user/ol0hjvrny89ab9kd9imkqfdt0#gh-light-mode-only" rel="nofollow">
   <img src="./img/spotify-light.svg" alt="website" style="width: 23px;"height: 23px;"></a>
