@@ -1,4 +1,4 @@
-## Hi there, I'm yogistrash!
+## Hi there, I'm Yogi Pamungkas aka yogistrash!
 
 I don't know what to type here, so
 <br/>
