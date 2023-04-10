@@ -29,4 +29,4 @@ Connect with me:
 <a href="https://discord.com/users/546349812316897303#gh-light-mode-only" rel="nofollow">
   <img src="https://discord.c99.nl/widget/theme-5/546349812316897303.png"\>
 <a href="https://discord.com/users/546349812316897303#gh-dark-mode-only" rel="nofollow">
-  <img src="https://discord.c99.nl/widget/theme-1/546349812316897303.png"\>
+  <im src="https://discord.c99.nl/widget/theme-1/546349812316897303.png"\>
