@@ -27,6 +27,6 @@ Connect with me:
   <img src="./img/spotify-light.svg" alt="website" style="width: 23px;"height: 23px;"></a>
 <br/>
 <a href="https://discord.com/users/546349812316897303#gh-light-mode-only" rel="nofollow">
-  <img src="https://discord.c99.nl/widget/theme-1/546349812316897303.png"\>
+  <img src="https://discord.c99.nl/widget/theme-4/546349812316897303.png"\>
 <a href="https://discord.com/users/546349812316897303#gh-dark-mode-only" rel="nofollow">
   <img src="https://discord.c99.nl/widget/theme-1/546349812316897303.png"\>
