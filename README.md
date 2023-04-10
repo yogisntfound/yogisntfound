@@ -1,4 +1,4 @@
-## Hi there, I'm Yogi Pamungkas!
+## Hi, I'm Yogi.
 
 ### Part of Cuy Universe
 
