@@ -2,7 +2,7 @@
 
 I don't know what to type here, so
 <br/>
-Connect with me:
+You can find me on:
 
 <a href="https://youtube.com/channel/UCD1DL3FJCakV-_e6jVMstzA#gh-dark-mode-only" rel="nofollow">
   <img src="./img/youtube-dark.svg" alt="website" style="width: 24px;"height: 24px;"></a>
