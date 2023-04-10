@@ -1,6 +1,4 @@
-## Hi, I'm Yogi.
-
-### Part of Cuy Universe
+### Hi, I'm Yogi.
 
 I don't know what to type here, so
 <br/>
