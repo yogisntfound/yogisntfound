@@ -25,6 +25,6 @@ You can find me on:
   <img src="./img/spotify-light.svg" alt="website" style="width: 23px;"height: 23px;"></a>
 <br/>
 <a href="https://discord.com/users/546349812316897303#gh-light-mode-only" rel="nofollow">
-  <img src="https://discord.c99.nl/widget/theme-5/546349812316897303.png"\>
+  <img src="https://discord.c99.nl/widget/theme-5/868769483777519637.png"\>
 <a href="https://discord.com/users/546349812316897303#gh-dark-mode-only" rel="nofollow">
-  <img src="https://discord.c99.nl/widget/theme-1/546349812316897303.png"\>
+  <img src="https://discord.c99.nl/widget/theme-1/868769483777519637.png"\>
